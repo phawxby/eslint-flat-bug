@@ -1,0 +1,13 @@
+{
+  "name": "@eslint-flat-bug/package-2",
+  "version": "1.0.0",
+  "scripts": {
+    "lint": "eslint foo.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^8.54.0"
+  }
+}

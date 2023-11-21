@@ -1,0 +1,14 @@
+{
+  "name": "eslint-flat-bug",
+  "version": "1.0.0",
+  "scripts": {
+    "lint": "turbo run lint"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^8.54.0",
+    "turbo": "^1.10.16"
+  }
+}
